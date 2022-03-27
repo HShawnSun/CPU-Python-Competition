@@ -1,3 +1,4 @@
 # CPU-Python-Workshop
-CPU的玩具大赛
-碰运气拿了1445分
+CPU's "toy" python Competition, regarding decoding, RSA, and Pytorch
+I took third place， scored 1445 points as the leader of a team of five.
+CPU is Computer Psyco Union of UNNC.
